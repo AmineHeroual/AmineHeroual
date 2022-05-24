@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Edraak FullStack-micro-credentials project | edraak.org
+- 🌱 I’m currently learning vuejs framework 
+- 👯 I’m looking to collaborate on some web project
 <!--
 **AmineHeroual/AmineHeroual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
